@@ -1,0 +1,12 @@
+{
+  "name": "alanhar-telegram-bot",
+  "version": "1.0.0",
+  "description": "Telegram bot for Al-Anhar Specialized Hospital",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "telegraf": "^4.16.3"
+  }
+}
